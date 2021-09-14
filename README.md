@@ -1,4 +1,4 @@
-# Bus Tracker
+# Project Title
 Bus Tracker Animated Map - from Tenlytown to Georgetown 
 
 ## Description 
@@ -11,3 +11,4 @@ Download or clone the files from this repository onto your local machine. Make s
 The code in this project is set up with data from the WMATA's API that gives bus stop locations in lattitude and longitude. This program only includes the bus stops on one bus route, the 33 metrobus. The bus stops are hard coded with the longitude and lattitude listed in an array variable named "busStops". Future improvements would be to integrate the WMATA API's data more fluidly in case the bus stop locations change or if the developer wants to display a different bus route. Another possible improvement would be to highlight the route of the bus with a different color as the marker moves along it. 
 
 ## License Information 
+This project was produced via MITxPro's Full Stack Developer Course. 
