@@ -1,12 +1,12 @@
 ## Project Name 
 busTracker
 
-##Table of Contents 
-- [Description & General Info]()
-- [Languages & Technologies]()
-- [Setup & Use]()
-- [Suggestions for Improvement]()
-- [Licensing Information]()
+## Table of Contents 
+- [Description & General Info](https://github.com/briennekordis/busTracker#description--general-info)
+- [Languages & Technologies](https://github.com/briennekordis/busTracker#languages--technologies)
+- [Setup & Use](https://github.com/briennekordis/busTracker#setup--use)
+- [Suggestions for Improvement](https://github.com/briennekordis/busTracker#suggestions-for-improvement)
+- [Licensing Information](https://github.com/briennekordis/busTracker#license-information)
 
 
 ## Description & General Info
