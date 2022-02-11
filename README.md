@@ -1,10 +1,8 @@
-# Project Title
-Bus Tracker Animated Map - from Tenlytown to Georgetown 
 
 ## Description 
 This project moves a maarker on a map to show the metrobus stops between Tenlytown and Georgetown, which are two neighboorhoods in Washington, DC. 
 
-## How to Run
+## Instructions for Use
 Download or clone the files from this repository onto your local machine. Make sure that all three files are saved in the same location. Then load the index.html file in your browser. (Please note that this animation will not work on the Internet Explorer browser). Click on the button displayed on the screen to see the marker move along the bus route from Tenlytown to Georgetown. 
 
 ## Roadmap for Future Improvement
